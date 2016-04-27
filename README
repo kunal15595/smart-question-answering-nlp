@@ -1,0 +1,35 @@
+This is the Read me file. It mentions all the requirements for running the code.
+Submitted by:
+Siddhesh Khandelwal 120101069
+Kunal Khandelwal 120101037
+Shriraj Bharadwaj 120101067
+Akshay Verma 120101007
+
+
+IMPORTANT:
+As the libraries for running the code were too large, we uploaded them on a google drive. The link to the drive is given below:
+https://drive.google.com/open?id=0B1YcnxviPBSEU3NsWUZEMnR1Wm8
+The file is named lib.tar.gz. Extract it, it will create a folder lib. Copy the directory to /Code/dist/
+Requirements:
+1. Oracle Java 8 with JavaPath set.
+2. Apache2 web server installed and running.
+
+
+Running the Code through the terminal:
+We have implemented two models. Both the models use the following files present in location Code/:  
+1. Question (question.txt) - Put the question you want answered here.
+2. Document (story.txt) - Put the document that would be used for answering here.
+3. Output File location (answer.txt) - The answer to the question will be stored in this file. Open it when the code finishes.
+
+
+	Running Model 1 (Graph Based Model): 
+		a.Open the folder Code/dist/Model1/
+		b.After putting the question and the document in the respective files, run the following command on the terminal:
+			sh run.sh
+		c.Once the code is done executing, the output will be in answer.txt (mentioned above)
+
+	Running Model 2 (Key Word Based Model): 
+		a.Open the folder Code/dist/Model2/
+		b.After putting the question and the document in the respective files, run the following command on the terminal:
+			sh run.sh
+		c.Once the code is done executing, the output will be in answer.txt (mentioned above)

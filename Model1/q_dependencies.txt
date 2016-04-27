@@ -1,0 +1,5 @@
+
+pick dobj what
+pick aux do
+pick nsubj Farmer
+pick compound up

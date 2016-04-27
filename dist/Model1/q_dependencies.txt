@@ -1,0 +1,7 @@
+
+drop dobj what
+drop aux do
+drop nsubj Jack
+jug case into
+jug det the
+drop nmod jug

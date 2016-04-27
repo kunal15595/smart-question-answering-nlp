@@ -1,0 +1,7 @@
+1 0 Jack
+2 0 Jack
+3 3 Jack
+5 0 Jack
+6 0 Jack
+8 0 Jack
+9 0 Jack

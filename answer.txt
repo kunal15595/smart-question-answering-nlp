@@ -1,0 +1,3 @@
+how many children does Preethi have? : three
+Line: She has three kids .
+

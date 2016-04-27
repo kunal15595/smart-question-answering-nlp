@@ -1,0 +1,54 @@
+
+be advmod once
+time case upon
+time det a
+once nmod time
+be expl there
+be nsubj Jack
+
+thirsty nsubj Jack
+thirsty cop be
+thirsty advmod very
+
+find nsubj Jack
+find aux could
+find neg not
+find dobj water
+time case for
+time det a
+time amod long
+find nmod time
+
+day nummod one
+see nmod day
+see nsubj Jack
+jug det a
+see dobj jug
+
+narrow cc but
+jug det the
+narrow nsubj jug
+narrow cop be
+narrow advmod too
+
+think nsubj Jack
+plan case of
+plan det a
+think nmod plan
+
+drop nsubj Jack
+drop dobj pebble
+jug case into
+jug det the
+drop nmod jug
+
+rise nsubj water
+rise compound up
+
+drink nsubj Jack
+water det the
+drink dobj water
+
+happy nsubj Jack
+happy cop be
+happy advmod very
